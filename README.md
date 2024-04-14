@@ -18,12 +18,12 @@ All updates about this shared task will be posted on this page.
 
 ## Important Dates
 
-- 2023/03/25：registration open
-- 2023/04/15：release of detailed task guidelines & training data
-- 2023/05/25：registration deadline
-- 2023/06/11：release of test data
-- 2023/06/20：participants’ results submission deadline
-- 2023/06/30：evaluation results release and call for system reports and conference paper
+- 2024/03/25：registration open
+- 2024/04/15：release of detailed task guidelines & training data
+- 2024/05/25：registration deadline
+- 2024/06/11：release of test data
+- 2024/06/20：participants’ results submission deadline
+- 2024/06/30：evaluation results release and call for system reports and conference paper
 
 
 ## Team Rank
