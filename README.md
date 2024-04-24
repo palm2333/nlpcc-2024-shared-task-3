@@ -1,5 +1,10 @@
 # NLPCC2024 Shared Task 3: Dialogue-level Coreference Resolution and Relation Extraction
 
+## News
+ ❗️❗Dataset update：delete duplicate coreference chains.
+
+ ❗️❗Publish evaluation scripts.
+
 ## Introduction
 
 ### Background
